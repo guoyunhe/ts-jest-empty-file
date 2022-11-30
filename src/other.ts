@@ -1,3 +1,3 @@
 
-
+const bar = 'foo';
 
